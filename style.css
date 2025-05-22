@@ -1,11 +1,12 @@
 body {
 
-  background-color: #111111
+  background-color: #111111;
 
 }
 
 #description {
-  background-color: gray
-  border: 2px gray
-  border-radius: 25px
+  background-color: gray;
+  border: 2px solid gray;
+  border-radius: 25px;
 }
+
