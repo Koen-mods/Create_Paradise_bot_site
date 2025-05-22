@@ -5,10 +5,11 @@ body {
 }
 
 #description {
+  border-left: 5px solid #D4AF37; /* warm gold on left side */
+  padding-left: 10px;             /* space so text isn't flush to border */
   background-color: gray;
   border: 2px solid gray;
   border-radius: 25px;
-  padding: 20px;
   width: fit-content;
 }
 
