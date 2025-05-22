@@ -5,6 +5,7 @@ body {
 }
 
 #description {
-  background-color: #005500
+  background-color: gray
+  border: 2px gray
   border-radius: 25px
 }
